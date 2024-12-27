@@ -1,5 +1,5 @@
 # Prog_eng_team_proj
-Данный проект мы делали в одном ноутбуке на google collab, поэтому мы скинули каждый одинаковый файл данного ноутбука 
+Данный проект мы делали в одном ноутбуке на google collab, поэтому мы скинули каждый одинаковый файл данного ноутбука https://colab.research.google.com/drive/1qN8hUbcP6yiKVpvFkJeIg6fOVOgspase?usp=sharing
 
 Задачи Андрея
 
